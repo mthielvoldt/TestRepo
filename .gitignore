@@ -13,6 +13,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*Document.txt
+
 
 # =========================
 # Operating System Files
@@ -37,3 +39,6 @@ Icon
 
 # Custom
 log.txt
+log2.txt
+log3.txt
+log4.txt
